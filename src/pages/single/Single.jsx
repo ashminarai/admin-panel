@@ -38,7 +38,7 @@ const Single = () => {
                 </div>
                 <div className="detailItem">
                   <span className="itemKey">Country:</span>
-                  <span className="itemValue">USA</span>
+                  <span className="itemValue">Nepal</span>
                 </div>
               </div>
             </div>
