@@ -6,10 +6,6 @@ This admin panel is highly customizable to suit your project's needs. Below are 
 
 - **Styling**: Customize the admin panel's appearance by modifying the CSS or using a CSS-in-JS solution of your choice.
 
-- **Integration with Backend**: Connect the admin panel to your backend API to fetch and manage data.
-
-- **User Authentication**: Implement user authentication and role-based access control.
-
 ## Configuration
 
 To configure the admin panel, you can update settings in the `.env` file, which should be added to your project root. Define variables like API endpoints, authentication details, and other environment-specific configurations.
