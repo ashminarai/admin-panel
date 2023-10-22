@@ -46,7 +46,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <img
-              src="https://images.pexels.com/photos/941693/pexels-photo-941693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+              src="https://previews.123rf.com/images/alexpokusay/alexpokusay2108/alexpokusay210800052/172801503-female-woman-girl-face-dummy-template-without-eyes-nose-and-mouth-color-sketch-engraving-vector.jpg"
               alt=""
               className="avatar"
             />
